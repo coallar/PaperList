@@ -17,7 +17,7 @@ Learning from the Target: Dual Prototype Network for Few Shot Semantic Segmentat
  DIRL: Domain-Invariant Representation Learning for Generalizable Semantic Segmentation [paper](https://www.aaai.org/AAAI22Papers/AAAI-3574.XuQ.pdf)  
 Activation Modulation and Recalibration Scheme for Weakly Supervised Semantic Segmentation [paper](https://arxiv.org/pdf/2112.08996.pdf)  
 Uncertainty Estimation via Response Scaling for Pseudo-Mask Noise Mitigation in Weakly-Supervised Semantic Segmentation [paper](https://www.aaai.org/AAAI22Papers/AAAI-4556.YiL.pdf)  
-Class Guided Channel Weighting Network for Fine-Grained Semantic Segmentation [paper]https://www.aaai.org/AAAI22Papers/AAAI-6621.ZhangX.pdf()  
+Class Guided Channel Weighting Network for Fine-Grained Semantic Segmentation [paper](https://www.aaai.org/AAAI22Papers/AAAI-6621.ZhangX.pdf)  
 Amplitude Spectrum Transformation for Open Compound Domain Adaptive Semantic Segmentation [paper](https://www.aaai.org/AAAI22Papers/AAAI-8406.KunduJ.pdf)   
 CPRAL: Collaborative Panoptic-Regional Active Learning for semantic Segmentation [paper](https://www.aaai.org/AAAI22Papers/AAAI-10103.QiaoY.pdf)  
 
@@ -26,7 +26,7 @@ CPRAL: Collaborative Panoptic-Regional Active Learning for semantic Segmentation
 Boosting Contrastive Learning with Relation Knowledge Distillation [paper](https://arxiv.org/pdf/2112.04174v1.pdf)  
 
 ## 降噪
-[] Generative Adaptive Convolutions for Real-World Noisy Image Denoising [paper](https://ojs.aaai.org/index.php/AAAI/article/view/20088) 
+Generative Adaptive Convolutions for Real-World Noisy Image Denoising [paper](https://ojs.aaai.org/index.php/AAAI/article/view/20088) 
 A Fusion-Denoising Attack on InstaHide with Data Augmentation [paper](https://www.aaai.org/AAAI22Papers/AAAI-7731.LuoX.pdf)  
 ReMoNet: Recurrent Multi-Output Network for Efficient Video Denoising [paper](https://ojs.aaai.org/index.php/AAAI/article/view/20182)  
 
