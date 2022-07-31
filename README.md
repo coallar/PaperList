@@ -26,7 +26,7 @@ CPRAL: Collaborative Panoptic-Regional Active Learning for semantic Segmentation
 Boosting Contrastive Learning with Relation Knowledge Distillation [paper](https://arxiv.org/pdf/2112.04174v1.pdf)  
 
 ## 降噪
-Generative Adaptive Convolutions for Real-World Noisy Image Denoising [paper](https://ojs.aaai.org/index.php/AAAI/article/view/20088) 
+[] Generative Adaptive Convolutions for Real-World Noisy Image Denoising [paper](https://ojs.aaai.org/index.php/AAAI/article/view/20088) 
 A Fusion-Denoising Attack on InstaHide with Data Augmentation [paper](https://www.aaai.org/AAAI22Papers/AAAI-7731.LuoX.pdf)  
 ReMoNet: Recurrent Multi-Output Network for Efficient Video Denoising [paper](https://ojs.aaai.org/index.php/AAAI/article/view/20182)  
 
